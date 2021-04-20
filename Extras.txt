@@ -1,0 +1,8 @@
+H21/Sauna:15,Padel:7,Peluquería:25
+H31/Sauna:15,Padel:7,Peluquería:25
+H41/Padel:7,Gimnasio:19,Peluquería:25
+H22/Sauna:15,Gimnasio:19,Peluquería:25
+H32/Gimnasio:19,Peluquería:25
+H42/Gimnasio:19,Peluquería:25,Padel:7
+H23/Gimnasio:19,Peluquería:25,Sauna:15
+H33/Sauna:15,Padel:7

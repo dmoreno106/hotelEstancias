@@ -1,0 +1,11 @@
+H33 Cordoba
+Hotel Moriles{
+ DNI: 11111111H
+ Nombre: dani
+ Fecha de entrada: 2001-02-01
+ Fecha de salida:2002-02-02
+ Extras: 
+Sauna: 15.0
+Padel: 7.0
+PPD:22.0
+ }

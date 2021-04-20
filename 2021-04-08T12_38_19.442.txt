@@ -1,0 +1,14 @@
+H31 Granada
+Hotel Nuevo{
+Precio Hotel: 100.5
+ DNI: 11111111H
+ Nombre: s
+ Fecha de entrada: 2001-01-01
+ Fecha de salida:2202-01-01
+ Extras: 
+Sauna: 15.0
+Peluquería: 25.0
+Padel: 7.0
+precio por dia:47.0
+ Total: 147.5
+ }

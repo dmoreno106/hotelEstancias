@@ -1,0 +1,8 @@
+Granada/H21/Hotel Luz/90.5
+Granada/H31/Hotel Nuevo/100.5
+Granada/H41/Hotel Avenida/80.5
+Málaga/H22/Hotel Boqueron/90.5
+Málaga/H32/Hotel Chanquete/190.5
+Málaga/H42/Hotel Playa/80.5
+Cordoba/H23/Hotel Montilla/120.7
+Cordoba/H33/Hotel Moriles/100.7
